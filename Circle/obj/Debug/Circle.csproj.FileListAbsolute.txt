@@ -1,0 +1,11 @@
+C:\Users\Mikhail\source\repos\Circle\Circle\bin\Debug\Circle.dll
+C:\Users\Mikhail\source\repos\Circle\Circle\bin\Debug\Circle.pdb
+C:\Users\Mikhail\source\repos\Circle\Circle\obj\Debug\Circle.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Circle\Circle\obj\Debug\Circle.dll
+C:\Users\Mikhail\source\repos\Circle\Circle\obj\Debug\Circle.pdb
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circle\bin\Debug\Circle.dll
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circle\bin\Debug\Circle.pdb
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circle\obj\Debug\Circle.dll
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circle\obj\Debug\Circle.pdb

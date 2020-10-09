@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{ADB2C2F0-5E8B-49E6-9AF1-EF600F33E9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circumference", "Circumference\Circumference.csproj", "{07C3A805-E1FF-4721-8685-7915A61596C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleTest", "CircleTest\CircleTest.csproj", "{FC65AE02-370B-4054-9875-61F4EA992949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB2C2F0-5E8B-49E6-9AF1-EF600F33E9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB2C2F0-5E8B-49E6-9AF1-EF600F33E9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB2C2F0-5E8B-49E6-9AF1-EF600F33E9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB2C2F0-5E8B-49E6-9AF1-EF600F33E9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C3A805-E1FF-4721-8685-7915A61596C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C3A805-E1FF-4721-8685-7915A61596C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C3A805-E1FF-4721-8685-7915A61596C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C3A805-E1FF-4721-8685-7915A61596C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC65AE02-370B-4054-9875-61F4EA992949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC65AE02-370B-4054-9875-61F4EA992949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC65AE02-370B-4054-9875-61F4EA992949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC65AE02-370B-4054-9875-61F4EA992949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94CEE6B-469F-4114-B543-BD94CDF14CF8}
+	EndGlobalSection
+EndGlobal

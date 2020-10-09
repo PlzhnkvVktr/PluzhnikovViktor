@@ -1,0 +1,21 @@
+C:\Users\Mikhail\source\repos\Circle\Circumference\bin\Debug\Circumference.exe.config
+C:\Users\Mikhail\source\repos\Circle\Circumference\bin\Debug\Circumference.exe
+C:\Users\Mikhail\source\repos\Circle\Circumference\bin\Debug\Circumference.pdb
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.csprojAssemblyReference.cache
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\MainWindow.g.cs
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\App.g.cs
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference_MarkupCompile.cache
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference_MarkupCompile.lref
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\MainWindow.baml
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.g.resources
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.Properties.Resources.resources
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.csproj.GenerateResource.cache
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.exe
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.pdb
+C:\Users\Mikhail\source\repos\Circle\Circumference\bin\Debug\Circle.dll
+C:\Users\Mikhail\source\repos\Circle\Circumference\bin\Debug\Circle.pdb
+C:\Users\Mikhail\source\repos\Circle\Circumference\obj\Debug\Circumference.csproj.CopyComplete
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circumference\bin\Debug\Circumference.exe.config
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circumference\obj\Debug\Circumference.exe
+C:\Users\Жекич\Desktop\Новая папка (2)\Circumference\Circumference\obj\Debug\Circumference.pdb
